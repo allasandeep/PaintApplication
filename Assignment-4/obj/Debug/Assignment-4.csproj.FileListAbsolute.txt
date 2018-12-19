@@ -1,0 +1,19 @@
+c:\users\a1821331\documents\visual studio 2015\Projects\Assignment-4\Assignment-4\bin\Debug\Assignment-4.exe.config
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\bin\Debug\Assignment-4.exe
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\bin\Debug\Assignment-4.pdb
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment-4.csprojResolveAssemblyReference.cache
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment-4.csproj.GenerateResource.Cache
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment-4.exe
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment-4.pdb
+C:\Users\a1821331\Documents\Visual Studio 2015\Projects\Assignment-4\Assignment-4\obj\Debug\Assignment_4.Form1.resources
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\bin\Debug\Assignment-4.exe.config
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\bin\Debug\Assignment-4.exe
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\bin\Debug\Assignment-4.pdb
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment-4.csprojAssemblyReference.cache
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment_4.Form1.resources
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment-4.csproj.GenerateResource.cache
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment-4.csproj.CoreCompileInputs.cache
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment-4.exe
+C:\Users\sande\Downloads\Assignment-4\Assignment-4\Assignment-4\obj\Debug\Assignment-4.pdb
